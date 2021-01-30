@@ -1,0 +1,13 @@
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\bin\Debug\netcoreapp3.1\DIDemo.exe
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\bin\Debug\netcoreapp3.1\DIDemo.deps.json
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\bin\Debug\netcoreapp3.1\DIDemo.runtimeconfig.json
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\bin\Debug\netcoreapp3.1\DIDemo.runtimeconfig.dev.json
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\bin\Debug\netcoreapp3.1\DIDemo.dll
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\bin\Debug\netcoreapp3.1\DIDemo.pdb
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\obj\Debug\netcoreapp3.1\DIDemo.csprojAssemblyReference.cache
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\obj\Debug\netcoreapp3.1\DIDemo.AssemblyInfoInputs.cache
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\obj\Debug\netcoreapp3.1\DIDemo.AssemblyInfo.cs
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\obj\Debug\netcoreapp3.1\DIDemo.csproj.CoreCompileInputs.cache
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\obj\Debug\netcoreapp3.1\DIDemo.dll
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\obj\Debug\netcoreapp3.1\DIDemo.pdb
+C:\Users\sakokkiligadda\source\repos\DIDemoApp\DIDemo\obj\Debug\netcoreapp3.1\DIDemo.genruntimeconfig.cache
