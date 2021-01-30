@@ -1,0 +1,1 @@
+This solution was created to give demo on dependency injection, It has code for how can we create our own dependency injection container and how does the Dependency Injection work in .net core along with their life time scopes.
